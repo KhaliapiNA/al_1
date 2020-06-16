@@ -1,0 +1,7 @@
+C:\Documents and Settings\adm\Рабочий стол\al_1\al_1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\adm\Рабочий стол\al_1\al_1\bin\Debug\al_1.exe
+C:\Documents and Settings\adm\Рабочий стол\al_1\al_1\bin\Debug\al_1.pdb
+C:\Documents and Settings\adm\Рабочий стол\al_1\al_1\obj\x86\Debug\al_1.exe
+C:\Documents and Settings\adm\Рабочий стол\al_1\al_1\obj\x86\Debug\al_1.pdb
+D:\github to\лабки\al_1\al_1\obj\x86\Debug\al_1.exe
+D:\github to\лабки\al_1\al_1\obj\x86\Debug\al_1.pdb
